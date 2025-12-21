@@ -4,9 +4,11 @@
 
 MoneyMap is a financial tracking web application built using React. This project was initialized using Create React App, which provides a modern setup with zero configuration.
 
+
 📜 Available Scripts
 
 In the project directory, you can run the following commands:
+
 
 ▶️ npm start
 
@@ -18,10 +20,12 @@ The page automatically reloads when you make changes.
 
 Any lint or runtime errors will be displayed in the console.
 
+
 🧪 npm test
 
 Starts the test runner in interactive watch mode.
 Useful for running and monitoring test cases during development.
+
 
 📦 npm run build
 
@@ -32,6 +36,7 @@ Optimized for best performance
 Minified files with hashed filenames
 
 Ready for deployment on any hosting platform
+
 
 ⚠️ npm run eject
 
@@ -44,6 +49,7 @@ All other commands will continue to work
 Recommended only for advanced customization
 
 Not required for most small or medium-scale deployments
+
 
 📚 Learn More
 
