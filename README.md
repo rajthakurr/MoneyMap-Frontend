@@ -1,58 +1,53 @@
 # MoneyMap-Frontend
 
-🚀 Getting Started with MoneyMap
+# 🚀 MoneyMap – Financial Tracker
 
-MoneyMap is a financial tracking web application built using React. This project was initialized using Create React App, which provides a modern setup with zero configuration.
+**MoneyMap** is a modern, high-performance financial tracking web application built with **React**. Designed for clarity and ease of use, it helps users manage their spending and visualize their financial health in real-time.
 
+---
 
-📜 Available Scripts
+## ✨ Features
+* **Real-time Tracking:** Monitor your expenses as they happen.
+* **Modern UI/UX:** Built using a React-based architecture for a smooth, single-page application experience.
+* **Production Optimized:** Performance-focused builds for fast loading times.
 
-In the project directory, you can run the following commands:
+---
 
+## 🛠️ Tech Stack
+* **Frontend:** React.js
+* **Environment:** Node.js
+* **Initialization:** Create React App
 
-▶️ npm start
+---
 
-Runs the application in development mode.
-Open http://localhost:3000
- to view it in your browser.
+## 📜 Available Scripts
 
-The page automatically reloads when you make changes.
+In the project directory, you can run the following commands to manage the application:
 
-Any lint or runtime errors will be displayed in the console.
+### `npm start`
+Runs the app in **development mode**.
+* Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+* The page will automatically reload when you make edits.
 
+### `npm test`
+Launches the **test runner** in interactive watch mode.
+* Essential for maintaining code quality and monitoring test cases during development.
 
-🧪 npm test
+### `npm run build`
+Bundles the app into **static files** for production in the `build` folder.
+* Optimizes the build for the best performance.
+* Files are minified and include hashes in the filenames for caching.
 
-Starts the test runner in interactive watch mode.
-Useful for running and monitoring test cases during development.
+### `npm run eject`
+**Note: This is a one-way operation.**
+* Use this only if you need full control over the configuration (Webpack, Babel, ESLint, etc.).
+* Once you `eject`, you cannot go back!
 
+---
 
-📦 npm run build
+## 📚 Learn More
+To learn more about the tools used in this project, check out:
+* [Create React App Documentation](https://facebook.github.io/create-react-app/docs/getting-started)
+* [React Documentation](https://reactjs.org/)
 
-Creates a production-ready build of the application in the build folder.
-
-Optimized for best performance
-
-Minified files with hashed filenames
-
-Ready for deployment on any hosting platform
-
-
-⚠️ npm run eject
-
-Note: This is a one-way operation. Once ejected, it cannot be undone.
-
-If you need full control over the configuration, this command exposes all underlying tools such as Webpack, Babel, and ESLint by copying them into the project.
-
-All other commands will continue to work
-
-Recommended only for advanced customization
-
-Not required for most small or medium-scale deployments
-
-
-📚 Learn More
-
-Create React App Documentation
-
-React Official Documentation
+---
