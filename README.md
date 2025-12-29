@@ -42,6 +42,10 @@ One of the standout features of MoneyMap is its **Automated Financial Visualizat
 
 Follow these steps to get your local development environment set up.
 
+
+
+Follow these steps to get your local development environment set up.
+
 1. **Clone the Repository:**
    ```bash
    git clone [https://github.com/your-username/MoneyMap.git](https://github.com/your-username/MoneyMap.git)
@@ -51,7 +55,7 @@ Follow these steps to get your local development environment set up.
    cd MoneyMap
 
 3. **Install Dependencies:**
-For Backend:
+   For Backend:
    ```bash
    cd backend
    npm install
