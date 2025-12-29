@@ -41,11 +41,6 @@ One of the standout features of MoneyMap is its **Automated Financial Visualizat
 ## ⚙️ Installation & Setup
 
 Follow these steps to get your local development environment set up.
-
-
-
-Follow these steps to get your local development environment set up.
-
 1. **Clone the Repository:**
    ```bash
    git clone [https://github.com/your-username/MoneyMap.git](https://github.com/your-username/MoneyMap.git)
@@ -55,14 +50,32 @@ Follow these steps to get your local development environment set up.
    cd MoneyMap
 
 3. **Install Dependencies:**
-   For Backend:
    ```bash
+   #For Backend:
    cd backend
    npm install
 
-For Frontend:
-   ```bash
+   #For Frontend:
    cd ../frontend
    npm install
+
+4. **Environment Variables: Create a .env file in the backend folder and add your configuration:**
+   ```bash
+   MONGO_URI=your_mongodb_connection_string
+   PORT=5000
+
+5. **Run the Application: You will need to run both the server and the client simultaneously in separate terminals:**
+   ```bash
+   # Start the Backend Server:
+   cd backend
+   npm start
+
+   # Start the Frontend Client:
+   cd frontend
+   npm start
+
+6. **View in Browser: Open your browser and navigate to:**
+   ```bash
+   http://localhost:8000
 
 
