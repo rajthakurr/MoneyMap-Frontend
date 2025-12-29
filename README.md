@@ -42,19 +42,21 @@ One of the standout features of MoneyMap is its **Automated Financial Visualizat
 
 Follow these steps to get your local development environment set up.
 
-### 1. Clone the Repository
-Open your terminal and run the following command to clone the project:
-```bash
-git clone [https://github.com/your-username/MoneyMap.git](https://github.com/your-username/MoneyMap.git)
-cd MoneyMap
+1. **Clone the Repository:**
+   Open your terminal and run the following command to clone the project:
+   ```bash
+   git clone [https://github.com/your-username/MoneyMap.git](https://github.com/your-username/MoneyMap.git)
 
-### 2. Install Dependencies
-You will need to install dependencies for both the Frontend and the Backend.
-For Backend:
+2. **Navigate into the project folder:**
+   ```bash
+   cd MoneyMap
+
+3. **Install Dependencies:**
+  You will need to install dependencies for both the Frontend and the Backend.
+
+  For Backend:
+  ```bash
+   cd backend
+  npm install
 
 
-cd backend
-npm install
-
-
-For Frontend:
