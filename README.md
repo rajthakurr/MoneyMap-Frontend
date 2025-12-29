@@ -59,14 +59,12 @@ Follow these steps to get your local development environment set up.
    cd ../frontend
    npm install
 
-4. **Environment Variables:** 
-   **Create a .env file in the backend folder and add your configuration:**
+4. **Environment Variables: (Create a .env file in the backend folder and add your configuration)**
    ```bash
    MONGO_URI=your_mongodb_connection_string
    PORT=5000
 
-5. **Run the Application:** 
-   **You will need to run both the server and the client simultaneously in separate terminals:**
+5. **Run the Application: (You will need to run both the server and the client simultaneously in separate terminals)**
    ```bash
    # Start the Backend Server:
    cd backend
