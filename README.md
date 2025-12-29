@@ -48,3 +48,13 @@ Open your terminal and run the following command to clone the project:
 git clone [https://github.com/your-username/MoneyMap.git](https://github.com/your-username/MoneyMap.git)
 cd MoneyMap
 
+### 2. Install Dependencies
+You will need to install dependencies for both the Frontend and the Backend.
+For Backend:
+
+
+cd backend
+npm install
+
+
+For Frontend:
